@@ -1,0 +1,35 @@
+{
+	"author":"Filigrani",
+	"authorURL":"https://github.com/Filigrani",
+	"mods":[
+		{
+			"name":"Sky Co-op",
+			"version":"0.9.7",
+			"updated":"2022-06-08",
+			"description":"Multiplayer mod for the game",
+			"modURL":"https://github.com/Filigrani/SkyCoop",
+			"downloadURL":"https://github.com/Filigrani/SkyCoop/releases/download/v9.7/ReleaseV9-7.zip",
+			"testedon":{
+				"tldversion":"2.0",
+				"mlversion":"0.5.4.0"
+			},
+			"dependencies":[
+				"ModSettings",
+				"KeyboardUtilities",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions",
+			],
+			"updater":{
+				"enable":false,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		}
+	]
+}
