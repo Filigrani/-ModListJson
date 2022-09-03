@@ -19,7 +19,7 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions",
+				"CraftingRevisions"
 			],
 			"updater":{
 				"enable":false,
