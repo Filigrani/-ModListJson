@@ -22,7 +22,7 @@
 				"CraftingRevisions"
 			],
 			"updater":{
-				"enable":false,
+				"enable":true,
 				"downloads":[]
 			},
 			"status":{
