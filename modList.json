@@ -4,11 +4,11 @@
 	"mods":[
 		{
 			"name":"Sky Co-op",
-			"version":"0.9.8c",
+			"version":"0.9.9",
 			"updated":"2022-06-09",
 			"description":"Multiplayer mod for the game",
 			"modURL":"https://github.com/Filigrani/SkyCoop",
-			"downloadURL":"https://github.com/Filigrani/SkyCoop/releases/download/v9.8c/ReleaseV9-8c.zip",
+			"downloadURL":"https://github.com/Filigrani/SkyCoop/releases/download/v9.9/ReleaseV9-9.zip",
 			"testedon":{
 				"tldversion":"2.0",
 				"mlversion":"0.5.4.0"
