@@ -19,7 +19,8 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions"
+				"CraftingRevisions",
+				"IncreaseSaveSlotLimit"
 			],
 			"updater":{
 				"enable":true,
