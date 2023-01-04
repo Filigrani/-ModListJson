@@ -17,7 +17,7 @@
 	"downloadURL": "https://github.com/Filigrani/SkyCoop/releases/download/v10.4/ReleaseV10-4.zi",
 
 	"images": [
-		"assets/img/Banner.png"
+		"https://raw.githubusercontent.com/Filigrani/-ModListJson/main/assets/img/Banner.png"
 	],
 	"updater": {
 		"enable": true,
