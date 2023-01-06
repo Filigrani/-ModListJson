@@ -1,45 +1,52 @@
 {
-	"type": "mod",
-	"name": "Sky Co-op",
-	"displayName": "Sky Co-op",
-	"aliases": [],
-	"author": "Filigrani",
-	"previousAuthors": "",
-	"version": "0.10.4",
-	"description": "Multiplayer mod for the game",
-	"categories": ["Gameplay"],
-	"gameversion": ["vanilla", "tftft"],
-	"tags": "multiplayer, coop, co-op",
-	"released": "2021-05-22",
-	"updated": "2022-09-24",
-
-	"modURL": "https://github.com/Filigrani/SkyCoop",
-	"downloadURL": "https://github.com/Filigrani/SkyCoop/releases/download/v10.4/ReleaseV10-4.zi",
-
-	"images": [
-		"https://raw.githubusercontent.com/Filigrani/-ModListJson/main/assets/img/Banner.png"
-	],
-	"updater": {
-		"enable": true,
-		"downloads": []
-	},
-	"testedon": {
-		"tldversion": "2.02",
-		"mlversion": "0.5.7"
-	},
-	"dependencies": [
-		"ModSettings",
-		"KeyboardUtilities",
-		"ModComponent",
-		"LocalizationUtilities",
-		"GearSpawner",
-		"CraftingRevisions",
-		"IncreaseSaveSlotLimit"
-	],
-	"status": {
-		"working": true,
-		"issues": "SkyCoop.modcomponent file is known to be corrupted",
-		"notes": "Current release of the mod only works on The Long Dark Version 2.02 or 2.01",
-		"patchnotes": "Current release of the mod only works on The Long Dark Version 2.02 or 2.01"
-	}
+	"author":"Filigrani",
+	"version": "2",
+	"authorURL":"https://github.com/Filigrani",
+	"mods":[
+		{
+		    "type": "mod",
+		    "name": "Sky Co-op",
+		    "displayName": "Sky Co-op",
+ 		    "aliases": [],
+		    "author": "Filigrani",
+		    "previousAuthors": "",
+		    "version": "0.10.4",
+		    "description": "Multiplayer mod for the game",
+		    "categories": ["Gameplay"],
+		    "gameversion": ["vanilla", "tftft"],
+		    "tags": "multiplayer, coop, co-op",
+		    "released": "2021-05-22",
+		    "updated": "2022-09-24",
+		
+		    "modURL": "https://github.com/Filigrani/SkyCoop",
+		    "downloadURL": "https://github.com/Filigrani/SkyCoop/releases/download/v10.4/ReleaseV10-4.zi",
+		
+		    "images": [
+		        "https://raw.githubusercontent.com/Filigrani/-ModListJson/main/assets/img/Banner.png"
+		    ],
+		    "updater": {
+		        "enable": true,
+		        "downloads": []
+		    },
+		    "testedon": {
+		        "tldversion": "2.02",
+		        "mlversion": "0.5.7"
+		    },
+		    "dependencies": [
+		        "ModSettings",
+		        "KeyboardUtilities",
+		        "ModComponent",
+		        "LocalizationUtilities",
+		        "GearSpawner",
+		        "CraftingRevisions",
+		        "IncreaseSaveSlotLimit"
+		    ],
+		    "status": {
+		        "working": true,
+		        "issues": "SkyCoop.modcomponent file is known to be corrupted",
+		        "notes": "Current release of the mod only works on The Long Dark Version 2.02 or 2.01",
+		        "patchnotes": "Current release of the mod only works on The Long Dark Version 2.02 or 2.01"
+		    }
+		}
+	]
 }
