@@ -19,13 +19,13 @@
 		    "updated": "2022-09-24",
 		
 		    "modURL": "https://github.com/Filigrani/SkyCoop",
-		    "downloadURL": "https://github.com/Filigrani/SkyCoop/releases/download/v10.4/ReleaseV10-4.zi",
+		    "downloadURL": "https://github.com/RED1cat/SkyCoopInstaller/releases/download/v1.0/SkyCoopInstaller.exe",
 		
 		    "images": [
 		        "https://raw.githubusercontent.com/Filigrani/-ModListJson/main/assets/img/Banner.png"
 		    ],
 		    "updater": {
-		        "enable": true,
+		        "enable": false,
 		        "downloads": []
 		    },
 		    "testedon": {
